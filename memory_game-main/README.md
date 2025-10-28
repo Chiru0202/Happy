@@ -18,16 +18,7 @@ Flip the cards, find the matching emoji pairs, and beat your best time and score
 
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3**
-  - Flexbox layout
-  - Transitions and keyframe animations
-- **JavaScript**
-  - DOM manipulation
-  - Arrays, functions, objects
-  - Event handling
-  - setInterval timer
-- **Audio API** for sound effects
+
 
 ---
 
